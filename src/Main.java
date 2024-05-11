@@ -7,8 +7,6 @@ public class Main {
         System.out.println("RESOLUÇÃO DOS DESAFIOS DE JAVA: POO # 01\n(ﾉ◕ヮ◕)ﾉ*:･ﾟ✧");
         System.out.println("========================================\n");
 
-        System.out.println();
-
         Pessoa pessoa = new Pessoa();
         pessoa.saudacao();
 

@@ -17,4 +17,4 @@ Este repositório contém soluções para um desafio proposto durante o curso *"
 Cada classe tem seus próprios requisitos e funcionalidades específicas, contribuindo para a prática e compreensão dos conceitos de programação orientada a objetos.
 
 ## Saída no terminal
-<img width="1552" alt="Captura de Tela 2024-05-11 às 00 24 54" src="https://github.com/quasiEvil/ONE-DesafiosJavaPOO01/assets/140989367/531cd66e-808a-4351-a362-022c2f291984">
+<img width="1552" alt="Captura de Tela 2024-05-11 às 00 28 41" src="https://github.com/quasiEvil/ONE-DesafiosJavaPOO01/assets/140989367/bdae101a-aefa-4d30-8fc7-982fd11a4b1b">

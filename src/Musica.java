@@ -11,7 +11,7 @@ public class Musica {
     void exibirFichaTecnica() {
         System.out.println("Título: " + titulo);
         System.out.println("Artista: " + artista);
-        System.out.println("Ano de lançamento:" + anoLancamento);
+        System.out.println("Ano de lançamento: " + anoLancamento);
     }
 
     void avaliar(double nota) {
